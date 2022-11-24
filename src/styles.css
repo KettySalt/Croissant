@@ -2,6 +2,9 @@ body {
   background: #f8e8a6;
 }
 h1,
+h2,
+h3,
+h4,
 p {
   text-align: center;
 }
@@ -20,4 +23,8 @@ img {
 footer a {
   margin: 20px;
   color: green;
+}
+ul {
+  width: 600px;
+  margin: 0 auto;
 }
